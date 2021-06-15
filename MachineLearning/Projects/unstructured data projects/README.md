@@ -1,4 +1,7 @@
-## Section 3 - Structured Data Projects
+# Section 4 - Unstructured data
 
-Structured data is data you'd usually find in an Excel spreadsheet, pandas DataFrame or similar tabular style file.
+Unstructed data is data you'll find outside of the traditional row and column structure (such as in an Excel spreadsheet or pandas DataFrame). Examples of unstructured data include images, audio and natural language.
 
+If you're working with these kinds of data sources, it's generally best to use deep learning, neural networks or transfer learning to gain insights out of them.
+
+That's what this section focuses on.

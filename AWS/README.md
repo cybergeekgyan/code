@@ -79,3 +79,7 @@ Section 9 - Application Integration and Loose Coupling
    - Amazon SNS and Amazon SQS
    - AWS Lambda to Amazon SQS Event Source Mapping
    - Serverless Application - Amazon SQS, SNS, and Lambda
+
+
+👍 AWS Cloud Practitioner - https://digitalcloud.training/amazon-...
+👍 AWS Solutions Architect Associate - https://digitalcloud.training/amazon-...

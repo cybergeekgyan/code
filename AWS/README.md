@@ -2,7 +2,7 @@
 
 ### ⭐️ Course Contents ⭐️
 
-(00:00:00) Course Introduction
+**Course Introduction**
  
 - Section 1 - AWS Basics
    - Introduction
